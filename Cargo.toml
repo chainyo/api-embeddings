@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 axum = "0.7.4"
 candle-core = { git = "https://github.com/huggingface/candle.git", version = "0.4.2" }
+hf-hub = "0.3.2"
+tokenizers = "0.15.2"
